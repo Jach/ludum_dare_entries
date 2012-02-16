@@ -1,0 +1,26 @@
+REQUIREMENTS
+--------------------
+Python >= 2.4 (www.python.org)
+PyGame (www.pygame.org)
+Linux (Just kidding, should work on Windblows and the Fruit)
+
+LICENSE
+--------------------
+All contained within the archive you just downloaded, with the exception of
+the fonts, is licensed under the GPL v3 or later and is copyrighted to me,
+Jach; I didn't make the fonts, but they're awesome so I'm using them. (I don't
+even know how to make a TTF file...) The GPL is in the data folder.
+
+GAMEPLAY
+--------------------
+See the in-game instructions. Use left and right arrows for control.
+I recommend having sound bar up to at least 50% to fully enjoy the sfx.
+
+RUNNING THE GAME
+--------------------
+Run the game with the command "python main.py" or if the permissions carry
+over you can simply do ./main.py
+
+CURRENT TIME
+--------------------
+It is currently 4am at the time of this writing. Go Ludum Dare X!
